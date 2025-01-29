@@ -1,7 +1,7 @@
 -- yes, this script was made with GUI to Lua, now shut up
 -- around line 112 is where you put your script
 
-local suskey = "https://roblox.et/share?code=f4d9f8208710d50bb5acb5cd10595e0f&type=Server"
+local suskey = "https://t.me/+dJE5cNx96_5kYjFh"
 
 local GUI = Instance.new("ScreenGui")
 local Main = Instance.new("Frame")
